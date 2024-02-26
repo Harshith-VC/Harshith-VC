@@ -1,6 +1,7 @@
-<h1 align="center">Hi there👋, I'm Harshith </h1>
-<h3>Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python I aim to combine technical expertise with business acumen to deliver impactful solutions</h3>
-<h3 align="center">Data Analyst</h3>
+<h1 style="text-align: left;">Hi there👋, I'm Harshith</h1>
+
+<h3>Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python. I aim to combine technical expertise with business acumen to deliver impactful solutions</h3>
+<h2 align="center">About Me</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-s6&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-s6" /> </p>
 
