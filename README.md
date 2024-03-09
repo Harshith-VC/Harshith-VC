@@ -31,6 +31,8 @@
 <ul>
     <li><strong><a href="https://www.linkedin.com/posts/harshithvc_excel-advancedexcel-dataanalysis-activity-7166869329265803265-QMTT?utm_source=share&utm_medium=member_desktop">HR Attrition Analysis:</a></strong> An analysis project providing comprehensive insights into workforce management.</li>
             <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">AtliQ Sales and Finance Reports:</a></strong> An analysis project providing comprehensive insights into sales and finance.</li>
+         <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">Business Insights 360 Power BI
+:</a></strong>  Power BI dashboard designed to empower AtliQ Hardware with actionable insights.</li>
 </ul>
 
 
