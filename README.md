@@ -33,6 +33,7 @@
             <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">AtliQ Sales and Finance Reports:</a></strong> An analysis project providing comprehensive insights into sales and finance.</li>
          <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">Business Insights 360 Power BI
 :</a></strong>  Power BI dashboard designed to empower AtliQ Hardware with actionable insights.</li>
+         <li><strong><a href="https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop">IPL 2024 Magazine:</a></strong>Provides valuable insights and predictions for IPL enthusiasts, analysts, and teams.</li>
 </ul>
 
 
