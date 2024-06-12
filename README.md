@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **harshithacharya6@gmail.com**
 
-- ⚡ Fun fact **I can analyze data with a cup of coffee in hand! ☕️**
+- 👨‍💻 Check out my [Project Portfolio](https://codebasics.io/portfolio/Harshith-V-C) to see some of my work!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a> 
