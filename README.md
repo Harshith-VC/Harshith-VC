@@ -37,4 +37,9 @@
 </ul>
 
 
+<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshith-VC&show_icons=true))](https://github.com/Harshith-VC/github-readme-stats&show_icons=true)
+
+
 <h6>Navigate through my repositories, and if you come across interesting collaboration opportunities or simply want to extend a warm greeting, I'm here and open for discussions! </h6>
