@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-s6&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-s6" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m skilled at **Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **harshithacharya6@gmail.com**
 
