@@ -1,6 +1,7 @@
 <h1 style="text-align: left;">Hi there👋, I'm Harshith</h1>
 
-<h4>Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python. I aim to combine technical expertise with business acumen to deliver impactful solutions</h4>
+- Welcome to my GitHub profile!
+- I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python. I aim to combine technical expertise with business acumen to deliver impactful solutions
 
 <h2 style="text-align: left;">About Me</h2>
 
