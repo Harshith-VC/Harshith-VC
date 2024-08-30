@@ -36,7 +36,7 @@
 :</a></strong>  Power BI dashboard designed to empower AtliQ Hardware with actionable insights.</li>
          <li><strong><a href="https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop">IPL 2024 Magazine: </a></strong> Provides valuable insights and predictions for IPL enthusiasts, analysts, and teams.</li>
          <li><strong><a href="https://github.com/Harshith-VC/Zomato-Data-Analysis">Zomato-Data-Analysis: </a></strong>Zomato restaurants data analyis to address customer behavior, restaurant performance, and market trends.</li>
-         <li><strong><a href="[https://github.com/Harshith-VC/Zomato-Data-Analysis](https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python)">Hospitality-Data-Analysis: </a></strong>AtliQ Hotels Data Analysis to understand the market trend, revenue perfromance and much more </li>
+         <li><strong><a href="https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python">Hospitality-Data-Analysis: </a></strong>AtliQ Hotels Data Analysis to understand the market trend, revenue perfromance and much more </li>
 </ul>
 
 
