@@ -9,7 +9,7 @@
 
 - 🌱 I’m skilled at **Power BI, Python, SQL, Excel**
 
-- 📫 How to reach me **harshithacharya6@gmail.com**
+- 📫 How to reach me **harshithacharya6@gmail.com** 
 
 - 👨‍💻 Check out my [Project Portfolio](https://codebasics.io/portfolio/Harshith-V-C) to see some of my work!
 
@@ -37,6 +37,8 @@
          <li><strong><a href="https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop">IPL 2024 Magazine: </a></strong> Provides valuable insights and predictions for IPL enthusiasts, analysts, and teams.</li>
          <li><strong><a href="https://github.com/Harshith-VC/Zomato-Data-Analysis">Zomato-Data-Analysis: </a></strong>Zomato restaurants data analyis to address customer behavior, restaurant performance, and market trends.</li>
          <li><strong><a href="https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python">Hospitality-Data-Analysis: </a></strong>AtliQ Hotels Data Analysis to understand the market trend, revenue perfromance and much more </li>
+           <li><strong><a href="https://github.com/Harshith-VC/Pizza-Sales-Analysis-Using-SQL">Pizza-Sales-Analysis-Using-SQL: </a></strong> Comprehensive analysis of pizza sales data, revenue trends, customer preferences, and peak hours </li>
+        <li><strong><a href="https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis">Twitter-sentiment-Extaction-Analysis: </a></strong> Sentiment analysis of Twitter comments: positive, negative, or neutral </li>
 </ul>
 
 
