@@ -39,6 +39,7 @@
          <li><strong><a href="https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python">Hospitality-Data-Analysis: </a></strong>AtliQ Hotels Data Analysis to understand the market trend, revenue perfromance and much more </li>
            <li><strong><a href="https://github.com/Harshith-VC/Pizza-Sales-Analysis-Using-SQL">Pizza-Sales-Analysis-Using-SQL: </a></strong> Comprehensive analysis of pizza sales data, revenue trends, customer preferences, and peak hours </li>
         <li><strong><a href="https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis">Twitter-sentiment-Extaction-Analysis: </a></strong> Sentiment analysis of Twitter comments: positive, negative, or neutral </li>
+        <li><strong><a href="https://github.com/Harshith-VC/Wavecon-Telecom-Analysis">Wavecon-Telecom-Analysis: </a></strong> Comprehensive analysis of Wavecon Telecom's KPIs before and after the 5G launch </li>
 </ul>
 
 
