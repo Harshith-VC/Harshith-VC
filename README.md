@@ -28,19 +28,42 @@
 <a href="https://auth.geeksforgeeks.org/user/harshithacharya6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<naveen6052531>/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Projects:</h3>
 <ul>
-    <li><strong><a href="https://www.linkedin.com/posts/harshithvc_excel-advancedexcel-dataanalysis-activity-7166869329265803265-QMTT?utm_source=share&utm_medium=member_desktop">HR Attrition Analysis:</a></strong> An analysis project providing comprehensive insights into workforce management.</li>
-            <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">AtliQ Sales and Finance Reports:</a></strong> An analysis project providing comprehensive insights into sales and finance.</li>
-         <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">Business Insights 360 Power BI
-:</a></strong>  Power BI dashboard designed to empower AtliQ Hardware with actionable insights.</li>
-         <li><strong><a href="https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop">IPL 2024 Magazine: </a></strong> Provides valuable insights and predictions for IPL enthusiasts, analysts, and teams.</li>
-         <li><strong><a href="https://github.com/Harshith-VC/Zomato-Data-Analysis">Zomato-Data-Analysis: </a></strong>Zomato restaurants data analyis to address customer behavior, restaurant performance, and market trends.</li>
-         <li><strong><a href="https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python">Hospitality-Data-Analysis: </a></strong>AtliQ Hotels Data Analysis to understand the market trend, revenue perfromance and much more </li>
-           <li><strong><a href="https://github.com/Harshith-VC/Pizza-Sales-Analysis-Using-SQL">Pizza-Sales-Analysis-Using-SQL: </a></strong> Comprehensive analysis of pizza sales data, revenue trends, customer preferences, and peak hours </li>
-        <li><strong><a href="https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis">Twitter-sentiment-Extaction-Analysis: </a></strong> Sentiment analysis of Twitter comments: positive, negative, or neutral </li>
-        <li><strong><a href="https://github.com/Harshith-VC/Wavecon-Telecom-Analysis">Wavecon-Telecom-Analysis: </a></strong> Comprehensive analysis of Wavecon Telecom's KPIs before and after the 5G launch </li>
+  <ul>
+  <!-- Power BI Projects -->
+  <li><strong>Power BI:</strong></li>
+  <ul>
+    <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">Business Insights 360 Power BI:</a></strong> Power BI dashboard for AtliQ Hardware, delivering actionable insights across various business functions.</li>
+    <li><strong><a href="https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop">IPL 2024 Magazine:</a></strong> Insights and predictions for IPL teams, analysts, and enthusiasts using comprehensive cricket data analysis.</li>
+  </ul>
+  
+  <!-- SQL Projects -->
+  <li><strong>SQL:</strong></li>
+  <ul>
+    <li><strong><a href="https://github.com/Harshith-VC/Pizza-Sales-Analysis-Using-SQL">Pizza Sales Analysis (SQL):</a></strong> Comprehensive analysis of pizza sales, focusing on revenue trends, customer preferences, and peak sales hours.</li>
+  </ul>
+  
+  <!-- Excel Projects -->
+  <li><strong>Excel:</strong></li>
+  <ul>
+    <li><strong><a href="https://www.linkedin.com/posts/harshithvc_excel-advancedexcel-dataanalysis-activity-7166869329265803265-QMTT?utm_source=share&utm_medium=member_desktop">HR Attrition Analysis:</a></strong> Comprehensive insights into workforce management, focusing on factors influencing employee attrition.</li>
+    <li><strong><a href="https://www.linkedin.com/posts/harshithvc_atliq-hardware-sales-and-finance-analysis-activity-7162633917919875073-EZIn?utm_source=share&utm_medium=member_desktop">AtliQ Sales and Finance Reports:</a></strong> Analysis of sales and finance data to provide insights for better decision-making.</li>
+  </ul>
+  
+  <!-- Python Data Analysis Projects -->
+  <li><strong>Python:</strong></li>
+  <ul>
+    <li><strong><a href="https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis">Twitter Sentiment Analysis:</a></strong> Analysis of Twitter comments to determine sentiment (positive, negative, neutral).</li>
+    <li><strong><a href="https://github.com/Harshith-VC/Zomato-Data-Analysis">Zomato Data Analysis:</a></strong> Analysis of Zomato's restaurant data, exploring customer behavior, restaurant performance, and market trends.</li>
+    <li><strong><a href="https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python">Hospitality Data Analysis:</a></strong> Analysis of AtliQ Hotels' data to understand market trends, revenue performance, and business opportunities.</li>
+    <li><strong><a href="https://github.com/Harshith-VC/Wavecon-Telecom-Analysis">Wavecon Telecom Analysis:</a></strong> Analysis of key performance indicators before and after the 5G launch, offering insights into overall business impact.</li>
+    <li><strong><a href="https://github.com/Harshith-VC/Shield-Insurance-Insights">Shield Insurance Insights:</a></strong> Analysis of insurance revenue, customer trends, and policy performance for informed decision-making.</li>
+  </ul>
 </ul>
+
+</ul>
+
 
 
 <hr>
