@@ -10,7 +10,7 @@
 - 🎯 My focus: **Data storytelling and insights for decision-making**
 - 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**
 
-## 📊 GitHub Highlights
+## 📊 Stats
 
 <p align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshith-VC&show_icons=true&theme=algolia" alt="GitHub Stats" />
