@@ -7,9 +7,8 @@
 
 
 ## 🖋️ About Me
-- 🌱 Constantly learning **advanced analytics, Tableau, and Power BI**.
+- 🌱 Skilled at **Adanced Excel, SQL, Python,Power BI & Tableau**.
 - 🎯 My focus: **Data storytelling and insights for decision-making**.
-- 💬 Ask me about **SQL, Python, Data Analysis, and Dashboards**.
 - 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**.
 
 
