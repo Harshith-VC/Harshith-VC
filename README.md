@@ -18,16 +18,23 @@
 
 ## 🗂️ Featured Projects
 
-| **Project Name**                                                                                      | **Tools Used**             | **Domain**              |
-|-------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|
-| [**HR Attrition Analysis**](https://github.com/Harshith-VC/HR-Attrition-Dashboard-Excel)             | Python, Pandas, Matplotlib | HR Analytics            |
-| [**AtliQ Sales Reports**](https://github.com/Harshith-VC/AtliQ-Sales-Finance-Reports)                 | Power BI, Excel            | Sales and Finance       |
-| [**Business Insights 360**](https://github.com/Harshith-VC/Business-Insights-360-Power-BI)           | Power BI                   | Data Visualization      |
-| [**Hospitality Data Analysis**](https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python)   | Python, Pandas             | Hospitality             |
-| [**Zomato Data Analysis**](https://github.com/Harshith-VC/Zomato-Data-Analysis)                       | Python, Matplotlib         | Food Industry           |
-| [**Twitter Sentiment Analysis**](https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis) | Python, NLP Libraries      | Sentiment Analysis      |
-| [**IPL 2024 Insights**](https://github.com/Harshith-VC/IPL-2024-Magazine-)                           | Python, Pandas             | Sports Analytics        |
-| [**Spotify Song Analysis**](https://github.com/Harshith-VC/Spotify-Songs-Analysis)                   | Python, Seaborn            | Entertainment           |
+| **Project Name**                                                                                      | **Tools Used**                     | **Domain**              |
+|-------------------------------------------------------------------------------------------------------|------------------------------------|-------------------------|
+| [**Pizza Sales Analysis Using SQL**](https://github.com/Harshith-VC/Pizza-Sales-Analysis-Using-SQL)  | SQL                                | Food Industry           |
+| [**Excel Reports Insights AtliQ Hardwares**](https://github.com/Harshith-VC/Excel_Reports_Insights_AtliQ_Hardwares) | Excel, Power BI                   | Sales and Finance       |
+| [**HR Attrition Analysis**](https://github.com/Harshith-VC/HR-Attrition-Dashboard-Excel)             | Python, Pandas, Matplotlib         | HR Analytics            |
+| [**AtliQ Sales Reports**](https://github.com/Harshith-VC/AtliQ-Sales-Finance-Reports)                 | Power BI, Excel                    | Sales and Finance       |
+| [**Business Insights 360**](https://github.com/Harshith-VC/Business-Insights-360-Power-BI)           | Power BI                           | Data Visualization      |
+| [**Zomato Data Analysis**](https://github.com/Harshith-VC/Zomato-Data-Analysis)                       | Python, Matplotlib                 | Food Industry           |
+| [**Spotify Song Analysis**](https://github.com/Harshith-VC/Spotify-Songs-Analysis)                   | Python, Seaborn                    | Entertainment           |
+| [**Hospitality Data Analysis**](https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python)   | Python, Pandas                     | Hospitality             |
+| [**Medical Data Extraction**](https://github.com/Harshith-VC/Medical_Data_Extraction-Python)         | Python, Pandas, Numpy              | Healthcare              |
+| [**IPL 2024 Insights**](https://github.com/Harshith-VC/IPL-2024-Magazine-)                           | Python, Pandas                     | Sports Analytics        |
+| [**Telecom Customer Churn**](https://github.com/Harshith-VC/Telecom-Customer-Churn)                  | Python, Machine Learning, Pandas   | Telecom                 |
+| [**Wavecon Telecom Analysis**](https://github.com/Harshith-VC/Wavecon-Telecom-Analysis)              | Power BI, SQL                      | Telecom                 |
+| [**Loan Application Analysis**](https://github.com/Harshith-VC/Loan-Application-Analysis)            | Python, Scikit-learn, Pandas       | Banking and Finance     |
+| [**Twitter Sentiment Analysis**](https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis) | Python, NLP Libraries              | Sentiment Analysis      |
+
 
 ## 🛠️ Tools & Technologies
 <p align="Left">
