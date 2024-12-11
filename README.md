@@ -23,9 +23,9 @@
 
 | **Project Name**                                                                                      | **Tools Used**             | **Domain**              |
 |-------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|
-| [**HR Attrition Analysis**](https://github.com/Harshith-VC/HR-Attrition-Analysis)                     | Python, Pandas, Matplotlib | HR Analytics            |
+| [**HR Attrition Analysis**](https://github.com/Harshith-VC/HR-Attrition-Dashboard-Excel)                     | Python, Pandas, Matplotlib | HR Analytics            |
 | [**AtliQ Sales Reports**](https://github.com/Harshith-VC/AtliQ-Sales-Finance-Reports)                 | Power BI, Excel            | Sales and Finance       |
-| [**Business Insights 360**](https://github.com/Harshith-VC/Business-Insights-360)                    | Power BI                   | Data Visualization      |
+| [**Business Insights 360**](https://github.com/Harshith-VC/Business-Insights-360-Power-BI)                    | Power BI                   | Data Visualization      |
 | [**Hospitality Data Analysis**](https://github.com/Harshith-VC/Hospitality-Data-Analysis---Python)   | Python, Pandas             | Hospitality             |
 | [**Zomato Data Analysis**](https://github.com/Harshith-VC/Zomato-Data-Analysis)                       | Python, Matplotlib         | Food Industry           |
 | [**Twitter Sentiment Analysis**](https://github.com/Harshith-VC/Twitter-sentiment-Extaction-Analysis) | Python, NLP Libraries      | Sentiment Analysis      |
