@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines=Identify+Problem;Gather+Data;Analyze+Data;Find+Solutions" alt="Typing Animation" />
 </p>
----
+
 ## 🖋️ About Me
 - 🌱 Constantly learning **advanced analytics, Tableau, and Power BI**.
 - 🎯 My focus: **Data storytelling and insights for decision-making**.
