@@ -5,10 +5,10 @@
 </p>
 
 ## 🖋️ About Me
-- 🌱 Skilled at **Advanced Excel, SQL, Python, Power BI & Tableau**.
-- 🎓 Certified **[Google Advanced Data Analytics Professional](https://github.com/Harshith-VC/Google-Advanced-Data-Analytics-Professional-Certificate)**.
-- 🎯 My focus: **Data storytelling and insights for decision-making**.
-- 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**.
+- 🌱 Skilled at **Advanced Excel, SQL, Python, Power BI & Tableau**
+- 🎓 Certified **[Google Advanced Data Analytics Professional](https://github.com/Harshith-VC/Google-Advanced-Data-Analytics-Professional-Certificate)**
+- 🎯 My focus: **Data storytelling and insights for decision-making**
+- 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**
 
 ## 📊 GitHub Highlights
 
