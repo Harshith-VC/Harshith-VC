@@ -4,26 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines=Identify+Problem;Gather+Data;Analyze+Data;Find+Solutions" alt="Typing Animation" />
 </p>
 
+
+
 ## 🖋️ About Me
 - 🌱 Constantly learning **advanced analytics, Tableau, and Power BI**.
 - 🎯 My focus: **Data storytelling and insights for decision-making**.
 - 💬 Ask me about **SQL, Python, Data Analysis, and Dashboards**.
 - 📧 Contact me at **[harshit.email@example.com](mailto:harshit.email@example.com)**.
 
----
+
 
 ## 📊 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshith-VC&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshith-VC&theme=algolia" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith-VC&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
----
 
 ## 🗂️ Featured Projects
 
@@ -38,7 +33,7 @@
 | [**IPL 2024 Insights**](https://github.com/Harshith-VC/IPL-2024-Magazine-)                           | Python, Pandas             | Sports Analytics        |
 | [**Spotify Song Analysis**](https://github.com/Harshith-VC/Spotify-Songs-Analysis)                   | Python, Seaborn            | Entertainment           |
 
----
+
 
 ## 🛠️ Tools & Technologies
 <p align="center">
@@ -49,12 +44,11 @@
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
----
+
 ## 👨‍💻 Check Out My Work
 - 💼 **[Project Portfolio](https://codebasics.io/portfolio/Harshith-V-C)**: Explore detailed dashboards and data insights.
 - 🌐 **[Personal Website](#)**: Coming soon!
 
----
 
 ## 🤝 Connect with Me
 
@@ -70,10 +64,9 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 Fun Facts
 - 🖼️ Always looking for new ways to make data visually engaging.
 - 🎯 Driven to solve real-world problems with meaningful insights.
 - 🌟 Strong believer in the power of storytelling with data.
-
